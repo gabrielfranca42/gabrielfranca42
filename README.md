@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back end`**
 
-Me Gabriel Eduardo de Moura França, tenho 20 anos e sou natural de Pernambuco. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Senac. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu blog no notion "[zero to hero](https://magnificent-traffic-48f.notion.site/ZERO-TO-HERO-19732b1d4e5880ccbc63d13992310f53?pvs=4)", onde ensino a vc que não tem nenhum conhecimento na área a começar a estudar e prosseguir no seus e ao mesmo tempo que aprendo junto no processo "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Meu Gabriel Eduardo de Moura França, tenho 20 anos e sou natural de Pernambuco. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Senac. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu blog no notion "[zero to hero](https://magnificent-traffic-48f.notion.site/ZERO-TO-HERO-19732b1d4e5880ccbc63d13992310f53?pvs=4)", onde ensino a você que não tem nenhum conhecimento na área a começar a estudar e prosseguir no seus e ao mesmo tempo que aprendo junto no processo "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
 
 <p align="left">
     <a href= 
