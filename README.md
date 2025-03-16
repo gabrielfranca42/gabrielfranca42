@@ -90,7 +90,7 @@ Meu Gabriel Eduardo de Moura França, tenho 20 anos e sou natural de Pernambuco.
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="220" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=gabrielfranca42&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
   />
@@ -98,7 +98,7 @@ Meu Gabriel Eduardo de Moura França, tenho 20 anos e sou natural de Pernambuco.
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="158" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfranca42&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
