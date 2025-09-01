@@ -63,6 +63,14 @@ Meu Nome Gabriel Eduardo de Moura França, tenho 20 anos e sou natural de Pernam
           
           
 
+<img 
+    align="left" 
+    alt="GO"
+    title="GO" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"          
+/>
 
          
             
