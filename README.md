@@ -39,15 +39,42 @@ Meu Nome Gabriel Eduardo de Moura França, tenho 20 anos e sou natural de Pernam
 
 
 
+        
 
 <img 
     align="left" 
-    alt="C#"
-    title="C#" 
+    alt="JAVA"
+    title="JAVA" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="file:///D:/cdnlogo.com_java.svg"          
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"          
 />
+
+
+<img 
+    align="left" 
+    alt="SPRING"
+    title="SPRING" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg "          
+/>
+
+           https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg
+          
+
+  <img 
+    align="left" 
+    alt="GO"
+    title="GO" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src=" https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"          
+/>
+
+         
+          
+
 <img 
     align="left" 
     alt="MySQL"
