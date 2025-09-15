@@ -117,7 +117,8 @@ Além da faculdade e do estágio, gosto de praticar com projetos próprios e com
 
 <br clear="both">
 
-<img src="https://github.com/gabrielfranca42/gabrielfranca42/blob/output/snake.yml" alt="Snake animation" />
+<img src="https://github.com/gabrielfranca42/gabrielfranca42/blob/output/snake.svg" alt="Snake animation" />
+
 
 
 ###
