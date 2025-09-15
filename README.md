@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">👩🏻‍💻 Gabriel França<br><br>Desenvolvedor Back end<br><br>Meu Nome Gabriel , tenho 21 anos ,Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no Senac e atualmente faço estágio na Prefeitura do Recife, onde tenho aprendido bastante sobre o dia a dia da área de tecnologia.<br><br>Me interesso principalmente pelo desenvolvimento back-end, com foco no Java e no ecossistema Spring. Estou sempre buscando entender melhor como construir aplicações estáveis, seguras e que realmente façam diferença para quem usa.<br><br>Além da faculdade e do estágio, gosto de praticar com projetos próprios e compartilhar o que aprendo por aqui. Vejo esse espaço como uma forma de registrar minha evolução e também de me conectar com outras pessoas da área.</p>
+<p align="left">👩🏻‍💻 Gabriel França<br><br>Desenvolvedor Back end<br><br>Estudante de Análise e Desenvolvimento de Sistemas no Senac e estagiário de TI na Prefeitura do Recife.<br>Focado em desenvolvimento back-end com Java e Spring</p>
 
 ###
 
