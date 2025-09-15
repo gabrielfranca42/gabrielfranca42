@@ -51,17 +51,8 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielfranca42/gabrielfranca42/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielfranca42/gabrielfranca42/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gabrielfranca42/gabrielfranca42/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
 <img align="left" height="300" src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyYXduYWxqb2VtemczeTNuaWkzb3RucWNmZnVsZ24weTh0ODEwNHNjZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pVGsAWjzvXcZW4ZBTE/giphy.gif"  />
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/gabrielfranca42/gabrielfranca42/output/snake.svg" alt="Snake animation" />
-
-###
