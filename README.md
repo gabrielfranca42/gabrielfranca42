@@ -2,7 +2,11 @@
 
 **`Desenvolvedor Back end`**
 
-Meu Nome Gabriel Eduardo de Moura França, tenho 20 anos e sou natural de Pernambuco. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Senac. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu blog no notion "[zero to hero](https://magnificent-traffic-48f.notion.site/ZERO-TO-HERO-19732b1d4e5880ccbc63d13992310f53?pvs=4)", onde ensino a você que não tem nenhum conhecimento na área a começar a estudar e prosseguir no seus e ao mesmo tempo que aprendo junto no processo "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Meu Nome Gabriel , tenho 21 anos ,Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no Senac e atualmente faço estágio na Prefeitura do Recife, onde tenho aprendido bastante sobre o dia a dia da área de tecnologia.
+
+Me interesso principalmente pelo desenvolvimento back-end, com foco no Java e no ecossistema Spring. Estou sempre buscando entender melhor como construir aplicações estáveis, seguras e que realmente façam diferença para quem usa.
+
+Além da faculdade e do estágio, gosto de praticar com projetos próprios e compartilhar o que aprendo por aqui. Vejo esse espaço como uma forma de registrar minha evolução e também de me conectar com outras pessoas da área.
 
 <p align="left">
     <a href= 
