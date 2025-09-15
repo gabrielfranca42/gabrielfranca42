@@ -113,4 +113,6 @@ Além da faculdade e do estágio, gosto de praticar com projetos próprios e com
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfranca42&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 </p>
