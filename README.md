@@ -26,10 +26,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=gabrielfranca42.gabrielfranca42&"  />
-</div>
-
 ###
 
 <div align="left">
