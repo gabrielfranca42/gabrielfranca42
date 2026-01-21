@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">👩🏻‍💻 Gabriel França<br><br>Desenvolvedor Back end<br><br>Estudante de Análise e Desenvolvimento de Sistemas no Senac e estagiário de TI na Prefeitura do Recife.<br>Focado em desenvolvimento back-end com Java e Spring</p>
+<p align="left">👩🏻‍💻 Gabriel França<br><br>Desenvolvedor Back end<br><br>Estudante de Análise e Desenvolvimento de Sistemas no Senac, estagiário como desenvolvedor de softaware na Prefeitura do Recife e tambem estagiario no porto de suape como desenvolvedor e devops .<br>Focado em desenvolvimento back-end com Java Spring PHP Python com foco em automação e devops infra</p>
 
 ###
 
