@@ -32,6 +32,19 @@ I'm currently studying to be a ${dev.work}`)
 
 
 <h2 align="center">
+
+<h2 align="center">Estatísticas</h2>
+<p align="center">
+  <img src="https://github-readme-stats-defcon27.vercel.app/api?username=gabrielfranca42&show_icons=true&theme=react&include_all_commits=true&count_private=true" height="200" />
+</p>
+
+ <p align="center">
+    <img src="https://streak-stats.demolab.com/?user=gabrielfranca42&theme=react" height="200"/>
+</p> 
+
+<p align="center">
+  <img src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=gabrielfranca42&layout=compact&langs_count=16&theme=react" height="200" /> 
+</p>
  
 
 ###
