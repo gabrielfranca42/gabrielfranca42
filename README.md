@@ -20,10 +20,10 @@
 
 ```javascript
 let dev = {
-name: 'Douglas',
-age: 18,
+name: 'Gabriel',
+age: 21,
 nacionality: 'Brazil',
-work: 'Front-End developer | FullStack in progress...'
+work: 'Back-end developer | devops in progress...'
 }
 
 console.log(`Hi! I'm ${dev.name}, I'm ${dev.age} years old and i'm from ${dev.nacionality}! 
