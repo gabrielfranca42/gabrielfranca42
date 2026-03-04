@@ -35,16 +35,22 @@ I'm currently studying to be a ${dev.work}`)
 
 <h2 align="center">Estatísticas</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats-defcon27.vercel.app/api?username=gabrielfranca42&show_icons=true&theme=react&include_all_commits=true&count_private=true" width="500" />
-</p>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-defcon27.vercel.app/api?username=gabrielfranca42&show_icons=true&theme=react&include_all_commits=true&count_private=true" width="400" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=gabrielfranca42&layout=compact&langs_count=16&theme=react" width="400" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=gabrielfranca42&theme=react" width="500" />
-</p> 
-
-<p align="center">
-  <img src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=gabrielfranca42&layout=compact&langs_count=16&theme=react" width="500" /> 
+  <img src="https://streak-stats.demolab.com/?user=gabrielfranca42&theme=react" width="810" />
 </p>
 
 ###
