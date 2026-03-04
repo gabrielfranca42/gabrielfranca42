@@ -17,11 +17,6 @@
 
 ###
 
-<img height="250em" src="https://github-readme-stats.vercel.app/api?username=gabrielfranca42&show_icons=true&theme=midnight-purple" alt="Gabriel Franca" />
-
-<img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfranca42&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
-
  
 
 ###
