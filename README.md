@@ -49,9 +49,7 @@ I'm currently studying to be a ${dev.work}`)
   </table>
 </div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=gabrielfranca42&theme=react" width="300" />
-</p>
+
 
 ###
 
