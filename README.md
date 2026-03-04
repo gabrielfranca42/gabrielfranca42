@@ -31,7 +31,7 @@ I'm currently studying to be a ${dev.work}`)
 ```
 
 
-<h2 align="center">
+
 
 <h2 align="center">Estatísticas</h2>
 <p align="center">
