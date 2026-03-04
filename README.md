@@ -60,6 +60,7 @@ I'm currently studying to be a ${dev.work}`)
 
 ###
 
-<img align="center" height="4000" src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyYXduYWxqb2VtemczeTNuaWkzb3RucWNmZnVsZ24weTh0ODEwNHNjZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pVGsAWjzvXcZW4ZBTE/giphy.gif"  />
-
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyYXduYWxqb2VtemczeTNuaWkzb3RucWNmZnVsZ24weTh0ODEwNHNjZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="100%" />
+</div>
 ###
