@@ -50,7 +50,7 @@ I'm currently studying to be a ${dev.work}`)
 </div>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=gabrielfranca42&theme=react" width="810" />
+  <img src="https://streak-stats.demolab.com/?user=gabrielfranca42&theme=react" width="400" />
 </p>
 
 ###
