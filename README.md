@@ -43,7 +43,7 @@ I'm currently studying to be a ${dev.work}`)
 </p> 
 
 <p align="center">
-  <img src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=gabrielfranca42&layout=compact&langs_count=16&theme=react" height="300" /> 
+  <img src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=gabrielfranca42&layout=compact&langs_count=16&theme=react" height="3100" /> 
 </p>
  
 
