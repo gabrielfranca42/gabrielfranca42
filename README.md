@@ -1,6 +1,4 @@
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" width="60" alt="java logo"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" width="60" alt="spring logo"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="50" width="60" alt="apachekafka logo"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" width="60" alt="postgresql logo"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" width="60" alt="docker logo"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50" width="60" alt="go logo"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="50" width="60" alt="aws logo"> |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-
+<img src="https://skillicons.dev/icons?i=java,spring,go,aws,git,docker,kafka"/>
 <p align="left">
    <strong>Gabriel França</strong><br><br>
   <strong>Desenvolvedor Backend</strong><br><br>
