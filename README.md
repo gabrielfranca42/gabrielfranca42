@@ -12,7 +12,7 @@
 ```javascript
 let dev = {
 name: 'Gabriel',
-age: 21,
+age: 22,
 nacionality: 'Brazil',
 work: 'Back-end developer | devops in progress...'
 }
